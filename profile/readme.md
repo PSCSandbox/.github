@@ -2,6 +2,8 @@
 
 [![ Test Next Major](https://github.com/abilitygmbh/36487-ABILITY-GMBH-ERP-ABILITY.Reportpack-ISV/actions/workflows/NextMajor.yaml/badge.svg)](https://github.com/abilitygmbh/36487-ABILITY-GMBH-ERP-ABILITY.Reportpack-ISV/actions/workflows/NextMajor.yaml)
 
+[![ CI/CD](https://github.com/abilitygmbh/50578-G3-ERP-BC/actions/workflows/CICD.yaml/badge.svg)](https://github.com/abilitygmbh/50578-G3-ERP-BC/actions/workflows/CICD.yaml)
+
 ## Produktentwicklung
 
 | Name                 | Links                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Art der App | Test Codeunits | App Target | Anzahl Apps in Repo | Abhägigkeiten | Module                                                                                                                    | Sonstige Infos                      |
