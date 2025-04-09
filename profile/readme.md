@@ -1,5 +1,7 @@
 # Übersicht Business Central Apps
 
+[![ Test Next Major](https://github.com/abilitygmbh/36487-ABILITY-GMBH-ERP-ABILITY.Reportpack-ISV/actions/workflows/NextMajor.yaml/badge.svg)](https://github.com/abilitygmbh/36487-ABILITY-GMBH-ERP-ABILITY.Reportpack-ISV/actions/workflows/NextMajor.yaml)
+
 ## Produktentwicklung
 
 | Name                 | Links                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Art der App | Test Codeunits | App Target | Anzahl Apps in Repo | Abhägigkeiten | Module                                                                                                                    | Sonstige Infos                      |
