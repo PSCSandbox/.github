@@ -1,5 +1,5 @@
-# Business Central Apps|
-## Produktentwicklung|
+# Business Central Apps
+## Produktentwicklung
 |Name|Repo|CICD|Current|Next Major|
 |-------|-------|-------|-------|-------|
 |Report Logic|[🔗](https://github.com/abilitygmbh/36487-ABILITY-GMBH-ERP-ABILITY.ReportLogic-ISV.git)|[![ CI/CD](https://github.com/abilitygmbh/36487-ABILITY-GMBH-ERP-ABILITY.ReportLogic-ISV/actions/workflows/CICD.yaml/badge.svg)](https://github.com/abilitygmbh/36487-ABILITY-GMBH-ERP-ABILITY.ReportLogic-ISV/actions/workflows/CICD.yaml)|[![ Test Current](https://github.com/abilitygmbh/36487-ABILITY-GMBH-ERP-ABILITY.ReportLogic-ISV/actions/workflows/Current.yaml/badge.svg)](https://github.com/abilitygmbh/36487-ABILITY-GMBH-ERP-ABILITY.ReportLogic-ISV/actions/workflows/Current.yaml)|[![ Test Next Major](https://github.com/abilitygmbh/36487-ABILITY-GMBH-ERP-ABILITY.ReportLogic-ISV/actions/workflows/NextMajor.yaml/badge.svg)](https://github.com/abilitygmbh/36487-ABILITY-GMBH-ERP-ABILITY.ReportLogic-ISV/actions/workflows/NextMajor.yaml)|
